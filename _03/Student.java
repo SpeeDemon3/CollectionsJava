@@ -1,5 +1,7 @@
 package _03;
-
+/**
+ * class representing a student
+ */
 public class Student {
 	
 	private String idCard, name, course;

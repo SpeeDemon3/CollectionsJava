@@ -1,5 +1,8 @@
 package _03;
-
+/**
+ * @author Antonio Ruiz Benito -> SpeedDemoN
+ * program main class
+ */
 public class Main {
 
 	public static void main(String[] args) {
